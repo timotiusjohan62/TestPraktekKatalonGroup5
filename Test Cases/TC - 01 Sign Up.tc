@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 01 Sign Up</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>873ca9dc-9201-44fa-99da-e237e7f5b3a5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ce238495-359a-42f6-a2ed-2ba1b7ccd76a</id>
+      <masked>false</masked>
+      <name>First_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e2efddeb-4fc0-40ad-a83e-0d18d19affd3</id>
+      <masked>false</masked>
+      <name>Last_Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2c662a83-ae11-4f45-bfda-ef1f4f4f7f30</id>
+      <masked>false</masked>
+      <name>Phone</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>78beae1d-e368-4666-9d80-d92e80549a60</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6d0f784b-368c-4a39-9d2a-fbd85bd37852</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f1973fb-853c-48cb-ba36-8d6a71069ebb</id>
+      <masked>false</masked>
+      <name>Account_Type</name>
+   </variable>
+</TestCaseEntity>
