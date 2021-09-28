@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS - 01 Filter</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>2f605ebc-ea93-4e1b-badc-e7be8b9d622b</testSuiteGuid>
+   <testCaseLink>
+      <guid>90623fe0-e2db-4a09-a6c5-30ba9e1254ed</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC - Filter</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b20b26c8-b31e-475a-b5c1-d2dfa5e5aa7d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TD - 01</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>b20b26c8-b31e-475a-b5c1-d2dfa5e5aa7d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>typeTrip</value>
+         <variableId>e91e8824-d46d-432a-93d6-acf42f456bdf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b20b26c8-b31e-475a-b5c1-d2dfa5e5aa7d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>flyingFrom</value>
+         <variableId>9beaee2b-8f66-4807-992a-4e6362fa85ab</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b20b26c8-b31e-475a-b5c1-d2dfa5e5aa7d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Destination</value>
+         <variableId>404af4c6-3731-4dfc-9734-968f7e7f4391</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b20b26c8-b31e-475a-b5c1-d2dfa5e5aa7d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Departure_Date</value>
+         <variableId>5a3c3af6-79e6-468a-9931-c349176866c2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b20b26c8-b31e-475a-b5c1-d2dfa5e5aa7d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Return_Date</value>
+         <variableId>04396941-f850-450a-9b4b-c1216f902ee5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b20b26c8-b31e-475a-b5c1-d2dfa5e5aa7d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Passenger</value>
+         <variableId>f068d7be-7943-4f22-aae5-33bcfdc465a3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b20b26c8-b31e-475a-b5c1-d2dfa5e5aa7d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>typeFlight</value>
+         <variableId>ea46b942-a996-4b2a-b68f-194a3ba400c2</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
