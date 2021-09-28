@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Filter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>485f431e-9d52-4080-8954-eb578bf80202</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e91e8824-d46d-432a-93d6-acf42f456bdf</id>
+      <masked>false</masked>
+      <name>typeTrip</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9beaee2b-8f66-4807-992a-4e6362fa85ab</id>
+      <masked>false</masked>
+      <name>flyingFrom</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>404af4c6-3731-4dfc-9734-968f7e7f4391</id>
+      <masked>false</masked>
+      <name>Destination</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a3c3af6-79e6-468a-9931-c349176866c2</id>
+      <masked>false</masked>
+      <name>Departure_Date</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>04396941-f850-450a-9b4b-c1216f902ee5</id>
+      <masked>false</masked>
+      <name>Return_Date</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f068d7be-7943-4f22-aae5-33bcfdc465a3</id>
+      <masked>false</masked>
+      <name>Passenger</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea46b942-a996-4b2a-b68f-194a3ba400c2</id>
+      <masked>false</masked>
+      <name>typeFlight</name>
+   </variable>
+</TestCaseEntity>

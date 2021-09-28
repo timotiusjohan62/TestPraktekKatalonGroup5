@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS - 01 Filter,Chrome 93.0.4577.82,,,2021-09-28 22:30:58,2021-09-28 22:32:32,1m - 34.378s,FAILED
+,,,,,,,
+Test Cases/TC - Filter,Chrome 93.0.4577.82,,,2021-09-28 22:30:59,2021-09-28 22:31:27,27.494s,PASSED
+"openBrowser(""https://www.phptravels.net/"")",Chrome 93.0.4577.82,,,2021-09-28 22:31:01,2021-09-28 22:31:16,15.322s,PASSED
+"click(findTestObject(""Page_PHPTRAVEL - PHPTRAVEL/button_flights""))",Chrome 93.0.4577.82,,,2021-09-28 22:31:16,2021-09-28 22:31:17,1.069s,PASSED
+"if (typeTrip == ""One Way"")",Chrome 93.0.4577.82,,,2021-09-28 22:31:17,2021-09-28 22:31:26,9.491s,PASSED
+,,,,,,,
+Test Cases/TC - Filter,Chrome 93.0.4577.82,,,2021-09-28 22:31:27,2021-09-28 22:31:53,26.063s,PASSED
+"openBrowser(""https://www.phptravels.net/"")",Chrome 93.0.4577.82,,,2021-09-28 22:31:27,2021-09-28 22:31:42,14.744s,PASSED
+"click(findTestObject(""Page_PHPTRAVEL - PHPTRAVEL/button_flights""))",Chrome 93.0.4577.82,,,2021-09-28 22:31:42,2021-09-28 22:31:43,0.880s,PASSED
+"if (typeTrip == ""One Way"")",Chrome 93.0.4577.82,,,2021-09-28 22:31:43,2021-09-28 22:31:43,0.002s,PASSED
+"else if (typeTrip == ""Round Trip"")",Chrome 93.0.4577.82,,,2021-09-28 22:31:43,2021-09-28 22:31:53,10.382s,PASSED
+,,,,,,,
+Test Cases/TC - Filter,Chrome 93.0.4577.82,,,2021-09-28 22:31:53,2021-09-28 22:32:16,22.549s,PASSED
+"openBrowser(""https://www.phptravels.net/"")",Chrome 93.0.4577.82,,,2021-09-28 22:31:53,2021-09-28 22:32:05,11.502s,PASSED
+"click(findTestObject(""Page_PHPTRAVEL - PHPTRAVEL/button_flights""))",Chrome 93.0.4577.82,,,2021-09-28 22:32:05,2021-09-28 22:32:06,1.241s,PASSED
+"if (typeTrip == ""One Way"")",Chrome 93.0.4577.82,,,2021-09-28 22:32:06,2021-09-28 22:32:16,9.715s,PASSED
+,,,,,,,
+Test Cases/TC - Filter,Chrome 93.0.4577.82,,,2021-09-28 22:32:16,2021-09-28 22:32:20,4.188s,FAILED
+"openBrowser(""https://www.phptravels.net/"")",Chrome 93.0.4577.82,,,2021-09-28 22:32:16,2021-09-28 22:32:20,4.078s,FAILED
+,,,,,,,
+Test Cases/TC - Filter,Chrome 93.0.4577.82,,,2021-09-28 22:32:21,2021-09-28 22:32:32,11.060s,FAILED
+"openBrowser(""https://www.phptravels.net/"")",Chrome 93.0.4577.82,,,2021-09-28 22:32:21,2021-09-28 22:32:31,10.308s,PASSED
+"click(findTestObject(""Page_PHPTRAVEL - PHPTRAVEL/button_flights""))",Chrome 93.0.4577.82,,,2021-09-28 22:32:31,2021-09-28 22:32:32,0.709s,FAILED
