@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS - Php Travel,,,,2021-09-28 21:22:11,2021-09-28 21:22:13,2.584s,FAILED
+,,,,,,,
+Test Cases/TC - Input Data,,,,2021-09-28 21:22:11,2021-09-28 21:22:12,1.143s,FAILED
+"selectOptionByLabel(findTestObject(""Page_Flight Booking - PHPTRAVEL/select_National""), Nationality, false)",,,,2021-09-28 21:22:12,2021-09-28 21:22:12,0.386s,FAILED
+,,,,,,,
+Test Cases/TC - Input Data,,,,2021-09-28 21:22:13,2021-09-28 21:22:13,0.098s,FAILED
+"selectOptionByLabel(findTestObject(""Page_Flight Booking - PHPTRAVEL/select_National""), Nationality, false)",,,,2021-09-28 21:22:13,2021-09-28 21:22:13,0.063s,FAILED
+,,,,,,,
+Test Cases/TC - Input Data,,,,2021-09-28 21:22:13,2021-09-28 21:22:13,0.095s,FAILED
+"selectOptionByLabel(findTestObject(""Page_Flight Booking - PHPTRAVEL/select_National""), Nationality, false)",,,,2021-09-28 21:22:13,2021-09-28 21:22:13,0.062s,FAILED
+,,,,,,,
+Test Cases/TC - Input Data,,,,2021-09-28 21:22:13,2021-09-28 21:22:13,0.125s,FAILED
+"selectOptionByLabel(findTestObject(""Page_Flight Booking - PHPTRAVEL/select_National""), Nationality, false)",,,,2021-09-28 21:22:13,2021-09-28 21:22:13,0.093s,FAILED
+,,,,,,,
+Test Cases/TC - Input Data,,,,2021-09-28 21:22:13,2021-09-28 21:22:13,0.084s,FAILED
+"selectOptionByLabel(findTestObject(""Page_Flight Booking - PHPTRAVEL/select_National""), Nationality, false)",,,,2021-09-28 21:22:13,2021-09-28 21:22:13,0.057s,FAILED

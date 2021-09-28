@@ -66,7 +66,7 @@
       <description></description>
       <id>75e02842-0078-456c-8ab6-8bc4e7694437</id>
       <masked>false</masked>
-      <name>ExpDate</name>
+      <name>ExpMonth</name>
    </variable>
    <variable>
       <defaultValue>'15'</defaultValue>
